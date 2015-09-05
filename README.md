@@ -52,6 +52,15 @@ Or manually copy `easy-navigate.vim` to `~/.vim/plugin/`
 | `]Q`  | Go to last error     | `:clast`
 | `[Q`  | Go to first error    | `:cfirst`
 
+**Navigate Between Location List Items**
+
+| Keys  | Action              | Equivalence
+| ----: | ---                 | ---
+| `]l`  | Go to next item     | `:lnext`
+| `[l`  | Go to previous item | `:lprevious`
+| `]L`  | Go to last item     | `:llast`
+| `[L`  | Go to first item    | `:lfirst`
+
 
 **Navigate Between Wrapped Lines** 
 *These don't affect the usual behavior of the motion keys*
