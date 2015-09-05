@@ -60,3 +60,7 @@ Or manually copy `easy-navigate.vim` to `~/.vim/plugin/`
 | ----: | ---                            | ---
 | `j`   | Go down a line or wrapped line | `gj`
 | `k`   | Go up a line or wrapped line   | `gk`
+
+##Related Project
+
+[vim-unimpaired](https://github.com/tpope/vim-unimpaired)
