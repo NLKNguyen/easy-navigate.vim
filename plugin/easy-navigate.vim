@@ -6,6 +6,12 @@ noremap ]q :cnext<CR>
 noremap [Q :cfirst<CR>
 noremap ]Q :clast<CR>
 
+" Location List
+noremap [l :lprevious<CR>
+noremap ]l :lnext<CR>
+noremap [L :lfirst<CR>
+noremap ]L :llast<CR>
+
 " Buffer
 nnoremap [b :bprevious<CR>
 nnoremap ]b :bnext<CR>
